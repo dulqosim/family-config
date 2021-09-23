@@ -1,25 +1,26 @@
 name: Super Sableng $$
 key: SS
 color: blue
-emblem: flag_e_02
+emblem: A_Char_Pekka_02
 info:
-  logo: https:https://drive.google.com/file/d/1aRQO4evS8eTaC3NROl1KK3G6bBPd7z_X/view?usp=sharing
-  description: >
-    Super Sableng Family
-    Clan Orang Orang Sableng
-  social:
-    - instagram : https://instagram.com/supersableng212
-    - facebook  : https://www.facebook.com/SuperSablengOfficial
-    - twitter   : https://twitter.com/SuperSableng
-    - discord   : https://discord.gg/fCXM9QtV/9rQ7zNF
-    - website   : https://dulqosim.blogspot.com
-    - email     : dulqosim@gmail.com
+logo: https:https://drive.google.com/file/d/1aRQO4evS8eTaC3NROl1KK3G6bBPd7z_X/view?usp=sharing
+description: >
+Super Sableng Family
+Clan Orang Orang Sableng
+social:
+- instagram : https://instagram.com/supersableng212
+- facebook : https://www.facebook.com/SuperSablengOfficial
+- twitter : https://twitter.com/SuperSableng
+- discord : https://discord.gg/fCXM9QtV/9rQ7zNF
+- website : https://dulqosim.blogspot.com
+- email : dulqosim@gmail.com
 clans:
-  - name: Super Sableng
-    tag: 8JUG9C0G
-  - name: Super Sableng 2
-    tag: YQC0PYGY
-  - name: Super Sableng 3
-    tag: YGU2RC2P
-  - name: Super Sableng 4
-    tag: LP80CGYU
+
+name: Super Sableng
+tag: 8JUG9C0G
+name: Super Sableng 2
+tag: YQC0PYGY
+name: Super Sableng 3
+tag: YGU2RC2P
+name: Super Sableng 4
+tag: LP80CGYU
